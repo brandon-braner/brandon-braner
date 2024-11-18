@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Brandon Braner
 
-<!--
-**brandon-braner/brandon-braner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect and Engineering Leader passionate about building scalable systems and empowering teams.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, TypeScript, Go, PHP
+- **Frameworks:** FastAPI, Django, Laravel, React, Angular, Vue, Svelte
+- **Cloud & Infrastructure:** GCP, AWS, Kubernetes, Docker, Terraform
+- **Data Engineering:** PostgreSQL, Snowflake, BigQuery, dbt, Airflow
+- **AI/ML:** LangChain, LlamaIndex, OpenAI, Anthropic, Vertex AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Professional Focus
+- Leading digital transformation initiatives
+- Architecting distributed systems
+- Building real-time data pipelines
+- Implementing secure SDLC practices
+- Mentoring engineering teams
+
+## 🎓 Education & Certifications
+- M.S. Data Science - University of Colorado Boulder
+- Google Certified Professional Cloud Architect
+- Google Certified Professional Data Engineer
+- Certified Scrum Master
+
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/brandonbraner)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:brandon.braner@gmail.com)
