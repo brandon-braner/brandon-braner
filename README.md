@@ -24,4 +24,9 @@ Software Architect and Engineering Leader passionate about building scalable sys
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/brandonbraner)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:brandon.braner@gmail.com)
+
+## 💰 Hire me on Upwork
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)]([https://www.upwork.com/](https://www.upwork.com/freelancers/brandonbraner))
+
