@@ -17,7 +17,6 @@ Software Architect and Engineering Leader passionate about building scalable sys
 - Mentoring engineering teams
 
 ## 🎓 Education & Certifications
-- M.S. Data Science - University of Colorado Boulder
 - Google Certified Professional Cloud Architect
 - Google Certified Professional Data Engineer
 - Certified Scrum Master
