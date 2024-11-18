@@ -28,5 +28,5 @@ Software Architect and Engineering Leader passionate about building scalable sys
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:brandon.braner@gmail.com)
 
 ## 💰 Hire me on Upwork
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)]([https://www.upwork.com/](https://www.upwork.com/freelancers/brandonbraner))
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/brandonbraner)
 
